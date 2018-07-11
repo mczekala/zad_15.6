@@ -1,0 +1,139 @@
+.button {
+  display: inline-block;
+  padding: 20px;
+  background-color: #A43820;
+  margin: 20px 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.results {
+  background-color: #46211A;
+  color: #BA5536;
+}
+
+body {
+  background-color: #693D3D;
+}
+
+.container {
+  padding-top: 300px;
+  text-align: center;
+}
+
+.stopwatch {
+  background-color: #46211A;
+  color: #BA5536;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.results::before,
+.results::after {
+  content: "";
+  display: table;
+  clear: both;
+}*/
